@@ -1,0 +1,40 @@
+{
+	"multipart":[
+		{   
+			"when": { "north": "none|side|up", "south": "none|side|up", "east": "none|side|up", "west": "none|side|up" },
+				"apply": { "model": "minecraft:block/redstone/doct" }
+        },
+        {   
+			"when": { "north": "side|up" },
+				"apply": { "model": "minecraft:block/redstone/wire" }
+        },
+        {   
+			"when": { "east": "side|up" },
+				"apply": { "model": "minecraft:block/redstone/wire","y": 90}
+        },
+        {   
+			"when": { "south": "side|up" },
+				"apply": { "model": "minecraft:block/redstone/wire","y": 180}
+        },
+        {   
+			"when": { "west": "side|up" },
+				"apply": { "model": "minecraft:block/redstone/wire","y": 270}
+        },
+        {   
+			"when": { "north": "up" },
+				"apply": { "model": "minecraft:block/redstone/wall"}
+        },
+        {   
+			"when": { "east": "up" },
+				"apply": { "model": "minecraft:block/redstone/wall","y": 90}
+        },
+        {   
+			"when": { "south": "up" },
+				"apply": { "model": "minecraft:block/redstone/wall","y": 180}
+        },
+        {   
+			"when": { "west": "up" },
+				"apply": { "model": "minecraft:block/redstone/wall","y": 270}
+        }
+    ]
+}
