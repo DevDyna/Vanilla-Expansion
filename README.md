@@ -1,2 +1,2 @@
 # Vanilla-Expansion
-Minecraft Quality Life Expansion without change original game - Resource Pack
+Minecraft Quality Life Expansion with original game style - Resource Pack
