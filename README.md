@@ -60,15 +60,6 @@ Chorus plant (and flower)
  
 
  
+FILE PACKAGER
 
-# Planned Features:
-
- 
-
-Menu/inventory update? (change all gui into dark mode)
-
-eaves decay? Better grass model? Easter eggs? 
-
-Logic update? (modify model of comparator and repeater to make more intuitive simil ProjectRed but adapted)
-
-Redstone wire power tooltip?
+https://github.com/DevDyna/Pack-Composer
