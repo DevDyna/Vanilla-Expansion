@@ -1,0 +1,13 @@
+{
+	"multipart":[
+	{
+		"when":{ "age" : "0|1|2|3|4" },
+		"apply" : {"model" : "minecraft:block/chorus/flower/close"}
+	},
+	{
+		"when":{ "age" : "5"},
+		"apply" : {"model": "minecraft:block/chorus/flower/open"}
+	}
+	]
+	
+}
