@@ -1,2 +1,3 @@
 *.json linguist-detectable=true
-*.toml linguist-detectable=true
+*.mcmeta linguist-detectable=true
+*.png linguist-detectable=true
