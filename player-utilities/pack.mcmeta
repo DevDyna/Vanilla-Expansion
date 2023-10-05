@@ -1,6 +1,6 @@
-{  
-"pack": {  
- "pack_format":15, 
- "description": "VE Module - Player Utilities"  
-}  
-} 
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Vanilla Expansion Collection"
+    }
+}
