@@ -44,28 +44,28 @@ echo #compressing resource to .zip files and move out TEMP folder
 mkdir ZIP
 ::better-nature
 cd better-nature
-tar.exe -cf better-nature.zip assets pack.png pack.mcmeta
+tar.exe -a -cf better-nature.zip assets pack.png pack.mcmeta
 robocopy . .. better-nature.zip /MOVE > nul
 cd ..
 robocopy . ZIP better-nature.zip /MOVE > nul
 echo ^> better-nature
 ::player-utilities
 cd player-utilities
-tar.exe -cf player-utilities.zip assets pack.png pack.mcmeta
+tar.exe -a -cf player-utilities.zip assets pack.png pack.mcmeta
 robocopy . .. player-utilities.zip /MOVE > nul
 cd ..
 robocopy . ZIP player-utilities.zip /MOVE > nul
 echo ^> player-utilities
 ::radiant-redstone
 cd radiant-redstone
-tar.exe -cf radiant-redstone.zip assets pack.png pack.mcmeta
+tar.exe -a -cf radiant-redstone.zip assets pack.png pack.mcmeta
 robocopy . .. radiant-redstone.zip /MOVE > nul
 cd ..
 robocopy . ZIP radiant-redstone.zip /MOVE > nul
 echo ^> radiant-redstone
 ::vanilla-expansion
 cd temp
-tar.exe -cf vanilla-expansion.zip assets pack.png pack.mcmeta
+tar.exe -a -cf vanilla-expansion.zip assets pack.png pack.mcmeta
 robocopy . .. vanilla-expansion.zip /MOVE > nul
 cd ..
 robocopy . ZIP vanilla-expansion.zip /MOVE > nul
