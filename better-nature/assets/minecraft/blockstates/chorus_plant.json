@@ -7,58 +7,136 @@
       ]},
 	  "apply": { "model": "minecraft:block/chorus/plant/center" }
     },
+	
 	{
-      "when": {"north": "true"},
+      "when": {"north": "true" , "up": "false"},
       "apply": [
-		{ "model": "minecraft:block/chorus/plant/stem", "x": 90, "y": 180 },
-		{ "model": "minecraft:block/chorus/plant/stem_2", "x": 90, "y": 180 },
-		{ "model": "minecraft:block/chorus/plant/stem_3", "x": 90, "y": 180 },
-		{ "model": "minecraft:block/chorus/plant/stem_4", "x": 90, "y": 180 }
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 90, "y": 180 }
 	  ]
     },
     {
-      "when": { "east": "true" },
+      "when": { "east": "true" , "up": "false"},
       "apply": [
-		{ "model": "minecraft:block/chorus/plant/stem", "x": 90, "y": 270 },
-		{ "model": "minecraft:block/chorus/plant/stem_2", "x": 90, "y": 270 },
-		{ "model": "minecraft:block/chorus/plant/stem_3", "x": 90, "y": 270 },
-		{ "model": "minecraft:block/chorus/plant/stem_4", "x": 90, "y": 270 }
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 90, "y": 270 }
 	  ]
     },
     {
-      "when": { "south": "true" },
+      "when": { "south": "true" , "up": "false"},
       "apply": [
-		{ "model": "minecraft:block/chorus/plant/stem", "x": 90 },
-		{ "model": "minecraft:block/chorus/plant/stem_2", "x": 90 },
-		{ "model": "minecraft:block/chorus/plant/stem_3", "x": 90 },
-		{ "model": "minecraft:block/chorus/plant/stem_4", "x": 90 }
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 90 }
 	  ]
     },
     {
-      "when": { "west": "true" },
+      "when": { "west": "true" , "up": "false"},
       "apply": [
-		{ "model": "minecraft:block/chorus/plant/stem", "x": 90, "y": 90 },
-		{ "model": "minecraft:block/chorus/plant/stem_2", "x": 90, "y": 90 },
-		{ "model": "minecraft:block/chorus/plant/stem_3", "x": 90, "y": 90 },
-		{ "model": "minecraft:block/chorus/plant/stem_4", "x": 90, "y": 90 }
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 90, "y": 90 }
 	  ]
     },
+	
+	
+	
+	{
+      "when": {"north": "true" , "down": "false"},
+      "apply": [
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 90, "y": 180 }
+	  ]
+    },
+    {
+      "when": { "east": "true" , "down": "false"},
+      "apply": [
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 90, "y": 270 }
+	  ]
+    },
+    {
+      "when": { "south": "true" , "down": "false"},
+      "apply": [
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 90 }
+	  ]
+    },
+    {
+      "when": { "west": "true" , "down": "false"},
+      "apply": [
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 90, "y": 90 }
+	  ]
+    },
+	{
+      "when": {"north": "true" , "down": "true", "up": "true"},
+      "apply": [
+		{ "model": "minecraft:block/chorus/plant/small_stem", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_2", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_3", "x": 90, "y": 180 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_4", "x": 90, "y": 180 }
+	  ]
+    },
+    {
+      "when": { "east": "true" , "down": "true", "up": "true"},
+      "apply": [
+		{ "model": "minecraft:block/chorus/plant/small_stem", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_2", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_3", "x": 90, "y": 270 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_4", "x": 90, "y": 270 }
+	  ]
+    },
+    {
+      "when": { "south": "true" , "down": "true", "up": "true"},
+      "apply": [
+		{ "model": "minecraft:block/chorus/plant/small_stem", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_2", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_3", "x": 90 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_4", "x": 90 }
+	  ]
+    },
+    {
+      "when": { "west": "true" , "down": "true", "up": "true"},
+      "apply": [
+		{ "model": "minecraft:block/chorus/plant/small_stem", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_2", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_3", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/chorus/plant/small_stem_4", "x": 90, "y": 90 }
+	  ]
+    },
+	
+	
     {
       "when": { "up": "true" },
       "apply": [
-		{ "model": "minecraft:block/chorus/plant/stem", "x": 180 },
-		{ "model": "minecraft:block/chorus/plant/stem_2", "x": 180 },
-		{ "model": "minecraft:block/chorus/plant/stem_3", "x": 180 },
-		{ "model": "minecraft:block/chorus/plant/stem_4", "x": 180 }
+		{ "model": "minecraft:block/chorus/plant/double_stem", "x": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2", "x": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3", "x": 180 },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4", "x": 180 }
 	  ]
     },
     {
       "when": { "down": "true" },
       "apply": [
-		{ "model": "minecraft:block/chorus/plant/stem" },
-		{ "model": "minecraft:block/chorus/plant/stem_2" },
-		{ "model": "minecraft:block/chorus/plant/stem_3" },
-		{ "model": "minecraft:block/chorus/plant/stem_4" }
+		{ "model": "minecraft:block/chorus/plant/double_stem" },
+		{ "model": "minecraft:block/chorus/plant/double_stem_2" },
+		{ "model": "minecraft:block/chorus/plant/double_stem_3" },
+		{ "model": "minecraft:block/chorus/plant/double_stem_4" }
 	]
     }
   ]

@@ -1,5 +1,5 @@
 {
-	"__comment": "Designed by Paulevs with Cubik Studio - https://cubik.studio | adapted by DevDyna",
+	"__comment": "Recreated by DevDyna",
 	"parent": "block/block",
 	"textures": {
 		"particle": "minecraft:block/chorus_plant",

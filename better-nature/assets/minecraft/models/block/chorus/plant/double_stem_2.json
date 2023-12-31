@@ -1,0 +1,110 @@
+{
+    "credit": "Recreated by DevDyna",
+    "textures": {
+        "particle": "block/chorus_plant",
+        "texture": "block/chorus_plant",
+        "needles": "block/chorus_plant_needles_2"
+    },
+    "elements": [{
+            "from": [5, 0, 5],
+            "to": [11, 8, 11],
+            "faces": {
+                "north": {
+                    "uv": [5, 8, 11, 16],
+                    "texture": "#texture"
+                },
+                "east": {
+                    "uv": [5, 8, 11, 16],
+                    "texture": "#texture"
+                },
+                "south": {
+                    "uv": [5, 8, 11, 16],
+                    "texture": "#texture"
+                },
+                "west": {
+                    "uv": [5, 8, 11, 16],
+                    "texture": "#texture"
+                },
+                "up": {
+                    "uv": [5, 5, 11, 11],
+                    "texture": "#texture"
+                },
+                "down": {
+                    "uv": [5, 5, 11, 11],
+                    "texture": "#texture"
+                }
+            }
+        }, {
+            "from": [0, 0, 0],
+            "to": [0.001, 8, 22.5],
+            "shade": false,
+            "rotation": {
+                "angle": 45,
+                "axis": "y",
+                "origin": [0, 0, 0]
+            },
+            "faces": {
+                "east": {
+                    "uv": [0, 0, 16, 8],
+                    "texture": "#needles"
+                },
+                "west": {
+                    "uv": [0, 0, 16, 8],
+                    "texture": "#needles"
+                }
+            }
+        }, {
+            "from": [16, 0, 0],
+            "to": [16.001, 8, 22.5],
+            "shade": false,
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [16, 0, 0]
+            },
+            "faces": {
+                "east": {
+                    "uv": [0, 0, 16, 8],
+                    "texture": "#needles"
+                },
+                "west": {
+                    "uv": [0, 0, 16, 8],
+                    "texture": "#needles"
+                }
+            }
+        }, {
+            "from": [5, -8, 5],
+            "to": [11, 0, 11],
+            "faces": {
+                "north": {
+                    "uv": [5, 8, 11, 16],
+                    "rotation": 180,
+                    "texture": "#texture"
+                },
+                "east": {
+                    "uv": [5, 8, 11, 16],
+                    "rotation": 180,
+                    "texture": "#texture"
+                },
+                "south": {
+                    "uv": [5, 8, 11, 16],
+                    "rotation": 180,
+                    "texture": "#texture"
+                },
+                "west": {
+                    "uv": [5, 8, 11, 16],
+                    "rotation": 180,
+                    "texture": "#texture"
+                },
+                "up": {
+                    "uv": [5, 5, 11, 11],
+                    "texture": "#texture"
+                },
+                "down": {
+                    "uv": [5, 5, 11, 11],
+                    "texture": "#texture"
+                }
+            }
+        }
+    ]
+}
