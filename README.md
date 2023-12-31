@@ -1,7 +1,6 @@
-# Vanilla-Expansion
+# [Vanilla-Expansion](https://www.curseforge.com/minecraft/texture-packs/vanilla-expansion)
 Minecraft Quality Life Expansion with original game style - Resource Pack
 
-https://www.curseforge.com/minecraft/texture-packs/vanilla-expansion
 
 # Description:
 
@@ -11,15 +10,12 @@ Silimar at Scaffolding-Delta packages , this resource pack is collection of all 
 
 # Modules:
 
-Better Nature
-https://www.curseforge.com/minecraft/texture-packs/better-nature
+[Better Nature](https://www.curseforge.com/minecraft/texture-packs/better-nature)
 
-Player Utilities
-https://www.curseforge.com/minecraft/texture-packs/player-utilities
+[Player Utilities](https://www.curseforge.com/minecraft/texture-packs/player-utilities)
 
-Radiant Redstone
-https://www.curseforge.com/minecraft/texture-packs/radiant-redstone
- 
+[Radiant Redstone](https://www.curseforge.com/minecraft/texture-packs/radiant-redstone)
+
 
 # All feature implemented:
 
@@ -60,7 +56,7 @@ Chorus plant (and flower)
  
 
  
-FILE PACKAGER
+[FILE PACKAGER](https://github.com/DevDyna/Pack-Composer)
 [NO MORE USED]
 
-https://github.com/DevDyna/Pack-Composer
+
