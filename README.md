@@ -55,7 +55,7 @@ Redstone Torch ,  Repeater , Comparator , Redstone Ores (stone and deepslate) :
 
 Chorus plant (and flower) 
 
-      - Implemented a optimized version of chorus plants (with various changes and feature) from Better End
+      - Implemented a optimized version of chorus plants (with various changes and fix) from Better End
 
  
 
