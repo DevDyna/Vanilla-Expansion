@@ -65,6 +65,7 @@ mkdir ZIP
 ::better-nature
 cd better-nature
 tar.exe -a -cf better-nature.zip assets pack.png pack.mcmeta
+del pack.mcmeta
 robocopy . .. better-nature.zip /MOVE > nul
 cd ..
 robocopy . ZIP better-nature.zip /MOVE > nul
@@ -73,6 +74,7 @@ echo ^> better-nature
 ::player-utilities
 cd player-utilities
 tar.exe -a -cf player-utilities.zip assets pack.png pack.mcmeta
+del pack.mcmeta
 robocopy . .. player-utilities.zip /MOVE > nul
 cd ..
 robocopy . ZIP player-utilities.zip /MOVE > nul
@@ -81,6 +83,7 @@ echo ^> player-utilities
 ::radiant-redstone
 cd radiant-redstone
 tar.exe -a -cf radiant-redstone.zip assets pack.png pack.mcmeta
+del pack.mcmeta
 robocopy . .. radiant-redstone.zip /MOVE > nul
 cd ..
 robocopy . ZIP radiant-redstone.zip /MOVE > nul
@@ -89,6 +92,7 @@ echo ^> radiant-redstone
 ::font-trim
 cd font-trim
 tar.exe -a -cf font-trim.zip assets pack.png pack.mcmeta
+del pack.mcmeta
 robocopy . .. font-trim.zip /MOVE > nul
 cd ..
 robocopy . ZIP font-trim.zip /MOVE > nul
@@ -105,6 +109,9 @@ echo ^> vanilla-expansion
 echo #removing ZIP/temp directory
 TIMEOUT /NOBREAK /T 1 > nul
 rmdir /s /q temp
+cd vanilla-expansion
+del pack.mcmeta
+cd ..
 
 echo:
 echo Packaged all files on ZIP/
