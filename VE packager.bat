@@ -1,4 +1,14 @@
 @echo off
+
+::define pack version
+FOR /F %%i IN (pack.mcmeta) DO @echo #Old JSON %%i
+
+set /p input=^>Enter pack version:
+
+echo {"pack":{"pack_format":%input%,"description":"Vanilla-Expansion-Collection"}} > pack.mcmeta
+TIMEOUT /NOBREAK /T 1 > nul
+FOR /F %%i IN (pack.mcmeta) DO @echo Result ^-^> %%i
+
 ::create directory
 echo #creating directories
 TIMEOUT /NOBREAK /T 1 > nul
@@ -115,4 +125,4 @@ cd ..
 
 echo:
 echo Packaged all files on ZIP/
-TIMEOUT /NOBREAK /T 1 > nul
+TIMEOUT /NOBREAK /T 3 > nul
