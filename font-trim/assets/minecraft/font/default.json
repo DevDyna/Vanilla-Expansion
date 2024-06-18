@@ -1,0 +1,116 @@
+{
+    "providers": [{
+            "type": "bitmap",
+            "file": "minecraft:font/common.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF900"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/rare.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF901"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/netherrack.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF910"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/cobblestone.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF911"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/mossy_cobblestone.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF912"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/sandstone.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF913"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/terracotta.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF914"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/cobbled_deepslate.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF915"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/prismarine.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF916"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/blackstone.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF917"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/end_stone.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF918"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:block/purpur_block.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF919"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/breeze_rod.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF920"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/copper.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF921"
+            ]
+        }
+    ]
+}
