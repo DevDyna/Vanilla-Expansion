@@ -1,0 +1,38 @@
+{
+    "subtitles.entity.warden.nearby_close": "\u00A74Shrieker actived ! 3 left",
+    "subtitles.entity.warden.nearby_closer": "\u00A74Shrieker actived ! 2 left",
+    "subtitles.entity.warden.nearby_closest": "\u00A74Shrieker actived ! 1 left",
+    "subtitles.entity.warden.emerge": "\u00A7eWarden joined the game",
+    "subtitles.entity.warden.dig": "\u00A7eWarden left the game",
+    "subtitles.entity.warden.hurt": "\u00A7bThis is fine",
+
+    "instrument.minecraft.ponder_goat_horn": "\uF900 Ponder \uF900",
+    "instrument.minecraft.sing_goat_horn": "\uF900 Sing \uF900",
+    "instrument.minecraft.seek_goat_horn": "\uF900 Seek \uF900",
+    "instrument.minecraft.feel_goat_horn": "\uF900 Feel \uF900",
+    "instrument.minecraft.admire_goat_horn": "\uF901 Admire \uF901",
+    "instrument.minecraft.call_goat_horn": "\uF901 Call \uF901",
+    "instrument.minecraft.yearn_goat_horn": "\uF901 Yearn \uF901",
+    "instrument.minecraft.dream_goat_horn": "\uF901 Dream \uF901",
+
+    "trim_pattern.minecraft.bolt": "\uF921 Bolt Armor Trim \uF921",
+    "trim_pattern.minecraft.coast": "\uF911 Coast Armor Trim \uF911",
+    "trim_pattern.minecraft.dune": "\uF913 Dune Armor Trim \uF913",
+    "trim_pattern.minecraft.eye": "\uF918 Eye Armor Trim \uF918",
+    "trim_pattern.minecraft.flow": "\uF920 Flow Armor Trim \uF920",
+    "trim_pattern.minecraft.host": "\uF914 Host Armor Trim \uF914",
+    "trim_pattern.minecraft.raiser": "\uF914 Raiser Armor Trim \uF914",
+    "trim_pattern.minecraft.rib": "\uF910 Rib Armor Trim \uF910",
+    "trim_pattern.minecraft.sentry": "\uF911 Sentry Armor Trim \uF911",
+    "trim_pattern.minecraft.shaper": "\uF914 Shaper Armor Trim \uF914",
+    "trim_pattern.minecraft.silence": "\uF915 Silence Armor Trim \uF915",
+    "trim_pattern.minecraft.snout": "\uF917 Snout Armor Trim \uF917",
+    "trim_pattern.minecraft.spire": "\uF919 Spire Armor Trim \uF919",
+    "trim_pattern.minecraft.tide": "\uF916 Tide Armor Trim \uF916",
+    "trim_pattern.minecraft.vex": "\uF911 Vex Armor Trim \uF911",
+    "trim_pattern.minecraft.ward": "\uF915 Ward Armor Trim \uF915",
+    "trim_pattern.minecraft.wayfinder": "\uF914 Wayfinder Armor Trim \uF914",
+    "trim_pattern.minecraft.wild": "\uF912 Wild Armor Trim \uF912",
+    "upgrade.minecraft.netherite_upgrade": "\uF910 Netherite Upgrade \uF910"
+
+}
