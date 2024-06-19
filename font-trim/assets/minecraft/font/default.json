@@ -1,7 +1,7 @@
 {
     "providers": [{
             "type": "bitmap",
-            "file": "minecraft:font/common.png",
+            "file": "minecraft:item/wheat.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -9,13 +9,61 @@
             ]
         }, {
             "type": "bitmap",
-            "file": "minecraft:font/rare.png",
+            "file": "minecraft:item/goat_horn.png",
             "ascent": 8,
             "height": 8,
             "chars": [
                 "\uF901"
             ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/fire_charge.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF902"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/gold_nugget.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF903"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/head.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF904"
+            ]
         }, {
+            "type": "bitmap",
+            "file": "minecraft:item/feather.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF905"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/glowstone_dust.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF906"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/diamond.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF907"
+            ]
+        },{
             "type": "bitmap",
             "file": "minecraft:block/netherrack.png",
             "ascent": 8,
@@ -110,6 +158,626 @@
             "height": 8,
             "chars": [
                 "\uF921"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/angler_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF922"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/archer_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF923"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/arms_up_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF924"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/blade_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF925"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/brewer_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF926"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/burn_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF927"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/danger_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF928"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/explorer_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF929"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/flow_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF930"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/friend_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF931"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/guster_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF932"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/heart_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF933"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/heartbreak_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF934"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/howl_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF935"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/miner_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF936"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/mourner_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF937"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/plenty_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF938"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/prize_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF939"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/scrape_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF940"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/sheaf_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF941"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/shelter_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF942"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/skull_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF943"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/snort_pottery_sherd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF944"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/amethyst_shard.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF945"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/copper_ingot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF946"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/diamond.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF947"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/emerald.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF948"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/gold_ingot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF949"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/iron_ingot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF950"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/lapis_lazuli.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF951"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/netherite_ingot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF952"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/quartz.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF953"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:item/redstone.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF954"
+            ]
+        }
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/base.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF955"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/base_dexter_canton.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF956"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/base_gradient.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF957"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/base_indented.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF958"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/base_sinister_canton.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF959"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/bend.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF960"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/bend_sinister.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF961"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/bordure.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF962"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/bordure_indented.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF963"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/chevron.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF964"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/chief.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF965"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/chief_dexter_canton.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF966"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/chief_indented.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF967"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/chief_sinister_canton.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF968"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/creeper_charge.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF969"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/cross.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF970"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/fess.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF971"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/field_masoned.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF972"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/flow.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF973"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/flower_charge.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF974"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/globe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF975"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/gradient.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF976"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/guster.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF977"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/inverted_chevron.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF978"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/lozenge.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF979"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/pale.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF980"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/pale_dexter.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF981"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/pale_sinister.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF982"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/paly.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF983"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/per_bend.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF984"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/per_bend_inverted.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF985"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/per_bend_sinister.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF986"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/per_bend_sinister_inverted.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF987"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/per_fess.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF988"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/per_fess_inverted.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF989"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/per_pale.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF990"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/per_pale_inverted.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF991"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/roundel.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF992"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/saltire.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF993"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/skull_charge.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF994"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/snout.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF995"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/banner/thing.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF996"
             ]
         }
     ]
