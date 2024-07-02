@@ -15,7 +15,14 @@
             "chars": [
                 "\uF901"
             ]
-        },{
+        },
+		
+		
+		
+		
+		
+		
+		{
             "type": "bitmap",
             "file": "minecraft:item/fire_charge.png",
             "ascent": 8,
@@ -63,7 +70,12 @@
             "chars": [
                 "\uF907"
             ]
-        },{
+        },
+		
+		
+		
+		
+		{
             "type": "bitmap",
             "file": "minecraft:block/netherrack.png",
             "ascent": 8,
@@ -143,9 +155,10 @@
             "chars": [
                 "\uF919"
             ]
-        }, {
+        }, 
+		{
             "type": "bitmap",
-            "file": "minecraft:item/breeze_rod.png",
+            "file": "minecraft:block/stone.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -159,7 +172,22 @@
             "chars": [
                 "\uF921"
             ]
-        }, {
+        }, 
+		
+		
+		
+		
+		
+		
+		{
+            "type": "bitmap",
+            "file": "minecraft:item/brick.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF908"
+            ]
+        },{
             "type": "bitmap",
             "file": "minecraft:item/angler_pottery_sherd.png",
             "ascent": 8,
@@ -225,7 +253,7 @@
             ]
         }, {
             "type": "bitmap",
-            "file": "minecraft:item/flow_pottery_sherd.png",
+            "file": "minecraft:block/stone.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -241,7 +269,7 @@
             ]
         }, {
             "type": "bitmap",
-            "file": "minecraft:item/guster_pottery_sherd.png",
+            "file": "minecraft:block/stone.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -305,7 +333,7 @@
             ]
         }, {
             "type": "bitmap",
-            "file": "minecraft:item/scrape_pottery_sherd.png",
+            "file": "minecraft:block/stone.png",
             "ascent": 8,
             "height": 8,
             "chars": [
