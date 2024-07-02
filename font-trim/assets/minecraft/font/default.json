@@ -15,7 +15,14 @@
             "chars": [
                 "\uF901"
             ]
-        },{
+        },
+		
+		
+		
+		
+		
+		
+		{
             "type": "bitmap",
             "file": "minecraft:item/fire_charge.png",
             "ascent": 8,
@@ -63,7 +70,12 @@
             "chars": [
                 "\uF907"
             ]
-        },{
+        },
+		
+		
+		
+		
+		{
             "type": "bitmap",
             "file": "minecraft:block/netherrack.png",
             "ascent": 8,
@@ -159,7 +171,22 @@
             "chars": [
                 "\uF921"
             ]
-        }, {
+        }, 
+		
+		
+		
+		
+		
+		
+		{
+            "type": "bitmap",
+            "file": "minecraft:item/brick.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF908"
+            ]
+        },{
             "type": "bitmap",
             "file": "minecraft:item/angler_pottery_sherd.png",
             "ascent": 8,
