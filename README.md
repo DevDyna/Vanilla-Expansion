@@ -1,6 +1,6 @@
 # [Vanilla-Expansion](https://www.curseforge.com/minecraft/texture-packs/vanilla-expansion)
 Minecraft Quality Life Expansion with original game style - Resource Pack
-
+ 
 
 # Description:
 
