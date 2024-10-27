@@ -72,10 +72,14 @@ Smithing Template:
 
       - A custom font to allow to see ingredient materials
 
+Scaffolding
+      
+      - Added an emissive indicator to define distance
 
-
+## Other Related stuff
  
 [FILE PACKAGER](https://github.com/DevDyna/Pack-Composer)
 [NO MORE USED]
 
-
+[SCAFFOLDING DELTA SERIES](https://github.com/DevDyna/Scaffolding-Delta)
+[NO MORE USED]
