@@ -21,48 +21,60 @@ echo #robocopy pack.mcmeta on all modules
 TIMEOUT /NOBREAK /T 1 > nul
 
 ::copy pack.mcmeta on directories
+
+::better-nature
 robocopy . better-nature /is pack.mcmeta > nul
 echo ^> better-nature
 TIMEOUT /NOBREAK /T 0 > nul
-
+::player-utilities
 robocopy . player-utilities /is pack.mcmeta > nul
 echo ^> player-utilities
 TIMEOUT /NOBREAK /T 0 > nul
-
+::radiant-redstone
 robocopy . radiant-redstone /is pack.mcmeta > nul
 echo ^> radiant-redstone
 TIMEOUT /NOBREAK /T 0 > nul
-
-robocopy . vanilla-expansion /is pack.mcmeta > nul
-echo ^> vanilla-expansion
-TIMEOUT /NOBREAK /T 0 > nul
-
+::font-trim
 robocopy . font-trim /is pack.mcmeta > nul
 echo ^> font-trim
 TIMEOUT /NOBREAK /T 0 > nul
+::scaffolding-delta
+robocopy . scaffolding-delta /is pack.mcmeta > nul
+echo ^> scaffolding-delta
+TIMEOUT /NOBREAK /T 0 > nul
 
+::vanilla-expansion
+robocopy . vanilla-expansion /is pack.mcmeta > nul
+echo ^> vanilla-expansion
+TIMEOUT /NOBREAK /T 0 > nul
 
 echo #robocopy files on directories
 TIMEOUT /NOBREAK /T 1 > nul
 ::copy all assets from other modules
 
+::player-utilities
 robocopy /E player-utilities\assets temp\assets > nul
 echo ^> player-utilities
-
+::radiant-redstone
 TIMEOUT /NOBREAK /T 0 > nul
 robocopy /E radiant-redstone\assets temp\assets > nul
 echo ^> radiant-redstone
-
+::better-nature
 TIMEOUT /NOBREAK /T 0 > nul
 robocopy /E better-nature\assets temp\assets > nul
 echo ^> better-nature
-
+::font-trim
 TIMEOUT /NOBREAK /T 0 > nul
 robocopy /E font-trim\assets temp\assets > nul
 echo ^> font-trim
+::scaffolding-delta
+TIMEOUT /NOBREAK /T 0 > nul
+robocopy /E scaffolding-delta\assets temp\assets > nul
+echo ^> scaffolding-delta
 
 TIMEOUT /NOBREAK /T 0 > nul
-::copy banner
+
+::vanilla-expansion
 robocopy /E vanilla-expansion temp > nul
 echo ^> vanilla-expansion
 TIMEOUT /NOBREAK /T 0 > nul
@@ -107,6 +119,15 @@ robocopy . .. font-trim.zip /MOVE > nul
 cd ..
 robocopy . ZIP font-trim.zip /MOVE > nul
 echo ^> font-trim
+scaffolding-delta
+::scaffolding-delta
+cd scaffolding-delta
+tar.exe -a -cf scaffolding-delta.zip assets pack.png pack.mcmeta
+del pack.mcmeta
+robocopy . .. scaffolding-delta.zip /MOVE > nul
+cd ..
+robocopy . ZIP scaffolding-delta.zip /MOVE > nul
+echo ^> scaffolding-delta
 
 ::vanilla-expansion
 cd temp
