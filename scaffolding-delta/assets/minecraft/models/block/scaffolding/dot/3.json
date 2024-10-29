@@ -1,0 +1,6 @@
+{
+    "parent":"block/scaffolding/template_dot",
+    "textures":{
+        "color" : "block/scaffolding/3"
+    }
+}
