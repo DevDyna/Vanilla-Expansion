@@ -885,6 +885,103 @@
       "ascent": 8,
       "height": 10,
       "chars": ["\uF829"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/sprites/toast/right_click.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF830"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/sprites/hud/armor_full.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF831"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/sprites/hud/heart/absorbing_full.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF832"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/sprites/hud/heart/full.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF833"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/sprites/hud/heart/poisoned_full.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF834"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/sprites/hud/heart/hardcore_full.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF835"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/block.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF836"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/blue_armor.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF837"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_effect/haste.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF838"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_effect/strength.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF839"]
+    },{
+      "type": "bitmap",
+      "file": "minecraft:font/black_armor.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF840"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_effect/luck.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF841"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_effect/speed.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF842"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_effect/jump_boost.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\uF843"]
     }
   ]
 }

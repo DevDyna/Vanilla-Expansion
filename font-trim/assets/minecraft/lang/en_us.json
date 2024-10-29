@@ -10,14 +10,14 @@
 
   "__comment1": "GOAT UTILS",
 
-  "instrument.minecraft.ponder_goat_horn": "\uF900 Ponder \uF900",
-  "instrument.minecraft.sing_goat_horn": "\uF900 Sing \uF900",
-  "instrument.minecraft.seek_goat_horn": "\uF900 Seek \uF900",
-  "instrument.minecraft.feel_goat_horn": "\uF900 Feel \uF900",
-  "instrument.minecraft.admire_goat_horn": "\uF901 Admire \uF901",
-  "instrument.minecraft.call_goat_horn": "\uF901 Call \uF901",
-  "instrument.minecraft.yearn_goat_horn": "\uF901 Yearn \uF901",
-  "instrument.minecraft.dream_goat_horn": "\uF901 Dream \uF901",
+  "instrument.minecraft.ponder_goat_horn": "§f\uF900 §7Ponder §f\uF900",
+  "instrument.minecraft.sing_goat_horn": "§f\uF900 §7Sing §f\uF900",
+  "instrument.minecraft.seek_goat_horn": "§f\uF900 §7Seek §f\uF900",
+  "instrument.minecraft.feel_goat_horn": "§f\uF900 §7Feel §f\uF900",
+  "instrument.minecraft.admire_goat_horn": "§f\uF901 §7Admire §f\uF901",
+  "instrument.minecraft.call_goat_horn": "§f\uF901 §7Call §f\uF901",
+  "instrument.minecraft.yearn_goat_horn": "§f\uF901 §7Yearn §f\uF901",
+  "instrument.minecraft.dream_goat_horn": "§f\uF901 §7Dream §f\uF901",
 
   "__comment2.0": "ARMOR TRIM",
   "__comment2.1": "TRIM DUPLICATION - ARMOR",
@@ -861,70 +861,97 @@
 
   "__comment6.2": "ENCHANTMENTS - ARMOR - ANY",
 
-  "enchantment.minecraft.protection": "§f\uF801\uF800 §7Protection",
-  "enchantment.minecraft.blast_protection": "§f\uF801\uF800 §7Blast Protection",
-  "enchantment.minecraft.fire_protection": "§f\uF801\uF800 §7Fire Protection",
-  "enchantment.minecraft.projectile_protection": "§f\uF801\uF800 §7Projectile Protection",
-  "enchantment.minecraft.thorns": "§f\uF801\uF800 §7Thorns",
+  "enchantment.minecraft.protection": "§f\uF801\uF800 §7Protection §8[§fIV§8]",
+  "enchantment.minecraft.blast_protection": "§f\uF801\uF800 §7Blast Protection §8[§fIV§8]",
+  "enchantment.minecraft.fire_protection": "§f\uF801\uF800 §7Fire Protection §8[§fIV§8]",
+  "enchantment.minecraft.projectile_protection": "§f\uF801\uF800 §7Projectile Protection §8[§fIV§8]",
+  "enchantment.minecraft.thorns": "§f\uF801\uF800 §7Thorns §8[§fIII§8]",
 
   "__comment6.2.1": "ENCHANTMENTS - ARMOR - HELMET",
 
   "enchantment.minecraft.aqua_affinity": "§f\uF801\uF805 §7Aqua Affinity",
-  "enchantment.minecraft.respiration": "§f\uF801\uF805 §7Respiration",
+  "enchantment.minecraft.respiration": "§f\uF801\uF805 §7Respiration §8[§fIII§8]",
 
   "__comment6.2.2": "ENCHANTMENTS - ARMOR - LEGGINGS",
 
-  "enchantment.minecraft.swift_sneak": "§f\uF803 §7Swift Sneak",
+  "enchantment.minecraft.swift_sneak": "§f\uF803 §7Swift Sneak §8[§fIII§8]",
 
   "__comment6.2.3": "ENCHANTMENTS - ARMOR - BOOTS",
 
-  "enchantment.minecraft.depth_strider": "§f\uF802 §7Depth Strider",
-  "enchantment.minecraft.feather_falling": "§f\uF802 §7Feather Falling",
-  "enchantment.minecraft.frost_walker": "§f\uF802 §7Frost Walker",
-  "enchantment.minecraft.soul_speed": "§f\uF802 §7Soul Speed",
+  "enchantment.minecraft.depth_strider": "§f\uF802 §7Depth Strider §8[§fIII§8]",
+  "enchantment.minecraft.feather_falling": "§f\uF802 §7Feather Falling §8[§fIV§8]",
+  "enchantment.minecraft.frost_walker": "§f\uF802 §7Frost Walker §8[§fII§8]",
+  "enchantment.minecraft.soul_speed": "§f\uF802 §7Soul Speed §8[§fIII§8]",
 
   "__comment6.3": "ENCHANTMENTS - WEAPONS",
 
-  "enchantment.minecraft.bane_of_arthropods": "§f\uF807\uF808\uF813 §7Bane of Arthropods",
-  "enchantment.minecraft.fire_aspect": "§f\uF807\uF813 §7Fire Aspect",
-  "enchantment.minecraft.sharpness": "§f\uF807\uF808 §7Sharpness",
-  "enchantment.minecraft.smite": "§f\uF807\uF808\uF813 §7Smite",
+  "enchantment.minecraft.bane_of_arthropods": "§f\uF807\uF808\uF813 §7Bane of Arthropods §8[§fV§8]",
+  "enchantment.minecraft.fire_aspect": "§f\uF807\uF813 §7Fire Aspect §8[§fII§8]",
+  "enchantment.minecraft.sharpness": "§f\uF807\uF808 §7Sharpness §8[§fV§8]",
+  "enchantment.minecraft.smite": "§f\uF807\uF808\uF813 §7Smite §8[§fV§8]",
 
-  "enchantment.minecraft.breach": "§f\uF813 §7Breach",
-  "enchantment.minecraft.density": "§f\uF813 §7Density",
-  "enchantment.minecraft.wind_burst": "§f\uF813 §7Wind Burst",
+  "enchantment.minecraft.breach": "§f\uF813 §7Breach §8[§fIV§8]",
+  "enchantment.minecraft.density": "§f\uF813 §7Density §8[§fV§8]",
+  "enchantment.minecraft.wind_burst": "§f\uF813 §7Wind Burst §8[§fIII§8]",
 
   "enchantment.minecraft.channeling": "§f\uF816 §7Channeling",
-  "enchantment.minecraft.impaling": "§f\uF816 §7Impaling",
-  "enchantment.minecraft.loyalty": "§f\uF816 §7Loyalty",
-  "enchantment.minecraft.riptide": "§f\uF816 §7Riptide",
+  "enchantment.minecraft.impaling": "§f\uF816 §7Impaling §8[§fV§8]",
+  "enchantment.minecraft.loyalty": "§f\uF816 §7Loyalty §8[§fIII§8]",
+  "enchantment.minecraft.riptide": "§f\uF816 §7Riptide §8[§fIII§8]",
 
-  "enchantment.minecraft.knockback": "§f\uF807 §7Knockback",
-  "enchantment.minecraft.looting": "§f\uF807 §7Looting",
-  "enchantment.minecraft.sweeping_edge": "§f\uF807 §7Sweeping Edge",
+  "enchantment.minecraft.knockback": "§f\uF807 §7Knockback §8[§fII§8]",
+  "enchantment.minecraft.looting": "§f\uF807 §7Looting §8[§fIII§8]",
+  "enchantment.minecraft.sweeping_edge": "§f\uF807 §7Sweeping Edge §8[§fIII§8]",
 
   "enchantment.minecraft.flame": "§f\uF817 §7Flame",
   "enchantment.minecraft.infinity": "§f\uF817 §7Infinity",
-  "enchantment.minecraft.power": "§f\uF817 §7Power",
-  "enchantment.minecraft.punch": "§f\uF817 §7Punch",
+  "enchantment.minecraft.power": "§f\uF817 §7Power §8[§fV§8]",
+  "enchantment.minecraft.punch": "§f\uF817 §7Punch §8[§fII§8]",
 
   "enchantment.minecraft.multishot": "§f\uF818 §7Multishot",
-  "enchantment.minecraft.piercing": "§f\uF818 §7Piercing",
-  "enchantment.minecraft.quick_charge": "§f\uF818 §7Quick Charge",
+  "enchantment.minecraft.piercing": "§f\uF818 §7Piercing §8[§fIV§8]",
+  "enchantment.minecraft.quick_charge": "§f\uF818 §7Quick Charge §8[§fIII§8]",
 
-  "enchantment.minecraft.luck_of_the_sea": "§f\uF820 §7Luck of the Sea",
-  "enchantment.minecraft.lure": "§f\uF820 §7Lure",
+  "enchantment.minecraft.luck_of_the_sea": "§f\uF820 §7Luck of the Sea §8[§fIII§8]",
+  "enchantment.minecraft.lure": "§f\uF820 §7Lure §8[§fIII§8]",
 
-  "enchantment.minecraft.efficiency": "§f\uF823\uF811 §7Efficiency",
-  "enchantment.minecraft.fortune": "§f\uF823 §7Fortune",
+  "enchantment.minecraft.efficiency": "§f\uF823\uF811 §7Efficiency §8[§fV§8]",
+  "enchantment.minecraft.fortune": "§f\uF823 §7Fortune §8[§fIII§8]",
   "enchantment.minecraft.silk_touch": "§f\uF823 §7Silk Touch",
 
-  "enchantment.minecraft.binding_curse": "Curse of Binding §f\uF829\uF800\uF801\uF804",
-  "enchantment.minecraft.vanishing_curse": "Curse of Vanishing §f\uF826\uF827\uF824\uF825\uF819\uF828\uF829\uF814",
+  "enchantment.minecraft.binding_curse": "§f\uF829\uF800\uF801\uF804 §cCurse of Binding",
+  "enchantment.minecraft.vanishing_curse": "§f\uF826\uF827\uF824\uF825\uF819\uF828\uF829\uF814 §cCurse of Vanishing",
 
-  "enchantment.minecraft.mending": "§7Mending §f\uF826\uF827\uF824\uF825\uF819\uF828",
+  "enchantment.minecraft.mending": "§f\uF826\uF827\uF824\uF825\uF819\uF828 §7Mending",
+  "enchantment.minecraft.unbreaking": "§f\uF826\uF827\uF824\uF825\uF819\uF828 §7Unbreaking §8[§fIII§8]",
 
-  
+  "block.minecraft.spawner.desc2": "§f\uF830 §9Sets Mob Type",
 
-  "enchantment.minecraft.unbreaking": "§7Unbreaking §f\uF826\uF827\uF824\uF825\uF819\uF828 "
+"item.minecraft.spider_eye": "Spider Eye §f2x\uF834",
+"item.minecraft.enchanted_golden_apple": "Enchanted Golden Apple §f8x\uF833 8x\uF832",
+"item.minecraft.golden_apple": "Golden Apple §f2x\uF833 2x\uF832",
+"item.minecraft.totem_of_undying": "Totem of Undying §f18x\uF833 4x\uF832",
+"item.minecraft.poisonous_potato": "Poisonous Potato §f4x\uF834",
+"item.minecraft.pufferfish": "Pufferfish §f24x\uF834",
+
+
+"block.minecraft.pointed_dripstone": "Pointed Dripstone §f3\uF835x\uF836",
+"item.minecraft.lava_bucket": "Lava Bucket §f2x\uF835",
+"block.minecraft.anvil": "Anvil §f\uF835x\uF836",
+"block.minecraft.chipped_anvil": "Chipped Anvil §f\uF835x\uF836",
+"block.minecraft.damaged_anvil": "Damaged Anvil §f\uF835x\uF836",
+"block.minecraft.lightning_rod": "Lightning Rod §f5x\uF835",
+
+  "attribute.name.armor": "§f\uF831 §9Armor ",
+  "attribute.name.armor_toughness": "§f\uF837 §9Armor Toughness ",
+  "attribute.name.attack_damage": "Attack Damage §f\uF839",
+  "attribute.name.attack_speed": "Attack Speed §f\uF838",
+
+  "attribute.name.knockback_resistance": "§f\uF840 §9Knockback Resistance",
+  "attribute.name.luck": "Luck §f\uF841",
+
+  "attribute.name.movement_speed": "Speed §f\uF842",
+
+  "attribute.name.safe_fall_distance": "Safe Fall Distance §f\uF843"
+
 }
