@@ -50,6 +50,27 @@
 <p><span style="font-size: 18px;">&nbsp; - A custom font to allow to see colors and pattern used on ANY banner</span></p>
 <p>&nbsp;<img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/font%20trim/screen4.png?raw=true" alt="" width="458" height="224" /></p>
 <p><span style="font-size: 18px;">&nbsp;</span></p>
+<p><span style="font-size: 18px;">Falling Block Damage</span></p>
+<p><span style="font-size: 18px;">&nbsp;- A custom font to allow to see the damage (anvil was multiplied on block height)</span></p>
+<p><span style="font-size: 18px;"><img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/font%20trim/screen5.png?raw=true" alt="" width="326" height="125" /></span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18px;">Poison Damage</span></p>
+<p><span style="font-size: 18px;">- A custom font to see the damage of poison</span></p>
+<p><img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/font%20trim/screen9.png?raw=true" alt="" width="429" height="109" /></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18px;">More intuitive Tooltips</span></p>
+<p><span style="font-size: 18px;">&nbsp;- Custom font to allow a view more intuitive on any armor</span></p>
+<p><span style="font-size: 18px;"><img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/font%20trim/screen10.png?raw=true" alt="" width="483" height="192" /></span></p>
+<p><span style="font-size: 18px;">Absorption and Regen Hearts</span></p>
+<p><span style="font-size: 18px;">&nbsp;- A custom font to see hearts from absorption and regeneration effects from consumable items</span></p>
+<p><span style="font-size: 18px;"><img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/font%20trim/screen8.png?raw=true" alt="" width="451" height="108" /></span></p>
+<p><span style="font-size: 18px;">Enchantments Overhal</span></p>
+<p><span style="font-size: 18px;">&nbsp;-&nbsp; Any enchantment now show with all valid items to be applied</span></p>
+<p>&nbsp;</p>
+<p><img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/font%20trim/screen7.png?raw=true" alt="" width="495" height="167" /></p>
+<p><span style="font-size: 18px;">&nbsp;- All enchantments with levels now show with "max level" tip before the level&nbsp;&nbsp;</span></p>
+<p><span style="font-size: 18px;">&nbsp;- All enchantments levels are now colored</span></p>
+<p><span style="font-size: 18px;"><img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/font%20trim/screen6.png?raw=true" alt="" width="293" height="378" /></span></p>
 <p><span style="font-size: 18px;">Scaffolding</span></p>
 <p><span style="font-size: 18px;">&nbsp; &nbsp; - Small extra shape colored</span></p>
 <p><span style="font-size: 18px;">&nbsp; &nbsp; &nbsp; - Has emit light&nbsp;<strong>Now without Mod support!</strong></span></p>
