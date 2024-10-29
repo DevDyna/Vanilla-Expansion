@@ -55,7 +55,7 @@
 <p><span style="font-size: 18px;">&nbsp; &nbsp; &nbsp; - Has emit light&nbsp;<strong>Now without Mod support!</strong></span></p>
 <p><span style="font-size: 18px;">&nbsp;&nbsp; &nbsp; &nbsp;- Define the distance before the fall</span></p>
 <p><span style="font-size: 18px;">&nbsp; &nbsp; &nbsp; - Added CTM support (require&nbsp;<a href="https://legacy.curseforge.com/minecraft/mc-mods/continuity" rel="nofollow"><strong>Continuity</strong></a>&nbsp;or&nbsp;<strong>Optifine</strong>)</span></p>
-<p>&nbsp;<img src="https://media.forgecdn.net/attachments/746/615/fancy-ctm.png" alt="" width="553" height="311" /></p>
+<p>&nbsp;<img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/scaffolding-delta/old/pack/fancy/screen2.png?raw=true" width="553" height="311" /></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 18px;">Block Breaking stages</span></p>
 <p><span style="font-size: 18px;">&nbsp; &nbsp;- changed texture with a more intuitive (see screenshot)</span></p>
