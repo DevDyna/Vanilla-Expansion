@@ -18,7 +18,7 @@
 <p><img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/radiant%20redstone/screen2.png?raw=true" alt="" width="380" height="223" /></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 18px;">Chorus plant (and flower)&nbsp;</span></p>
-<p><span style="font-size: 18px;">&nbsp; &nbsp;- Implemented a optimized version of chorus plants (with various changes and fix) from&nbsp;<a href="https://www.curseforge.com/minecraft/mc-mods/betterend"><strong>Better End</strong></a></span></p>
+<p><span style="font-size: 18px;">&nbsp; - Implemented an optimized version of chorus plants (this isn't the original , only a reimplementation) from&nbsp;<a href="https://www.curseforge.com/minecraft/mc-mods/betterend"><strong>Better End</strong></a></span></p>
 <p><span style="font-size: 18px;">&nbsp;</span></p>
 <p><span style="font-size: 18px;"><img src="https://github.com/DevDyna/ContentArchive/blob/main/Vanilla%20Expansion/better%20nature/screen3.png?raw=true" alt="" width="301" height="248" /></span></p>
 <p>&nbsp;</p>
