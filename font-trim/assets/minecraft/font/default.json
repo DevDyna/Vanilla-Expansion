@@ -130,7 +130,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:item/breeze_rod.png",
+      "file": "minecraft:item/barrier.png",
       "ascent": 8,
       "height": 10,
       "chars": ["\uF920"]
@@ -208,7 +208,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:item/flow_pottery_sherd.png",
+      "file": "minecraft:item/barrier.png",
       "ascent": 8,
       "height": 10,
       "chars": ["\uF930"]
@@ -222,7 +222,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:item/guster_pottery_sherd.png",
+      "file": "minecraft:item/barrier.png",
       "ascent": 8,
       "height": 10,
       "chars": ["\uF932"]
@@ -278,7 +278,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:item/scrape_pottery_sherd.png",
+      "file": "minecraft:item/barrier.png",
       "ascent": 8,
       "height": 10,
       "chars": ["\uF940"]
@@ -510,7 +510,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/banner/flow.png",
+      "file": "minecraft:item/barrier.png",
       "ascent": 8,
       "height": 10,
       "chars": ["\uF973"]
@@ -538,7 +538,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/banner/guster.png",
+      "file": "minecraft:item/barrier.png",
       "ascent": 8,
       "height": 10,
       "chars": ["\uF977"]
@@ -769,7 +769,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:item/mace.png",
+      "file": "minecraft:item/barrier.png",
       "ascent": 8,
       "height": 10,
       "chars": ["\uF813"]
