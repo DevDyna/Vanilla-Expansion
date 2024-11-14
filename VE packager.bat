@@ -119,7 +119,7 @@ robocopy . .. font-trim.zip /MOVE > nul
 cd ..
 robocopy . ZIP font-trim.zip /MOVE > nul
 echo ^> font-trim
-scaffolding-delta
+
 ::scaffolding-delta
 cd scaffolding-delta
 tar.exe -a -cf scaffolding-delta.zip assets pack.png pack.mcmeta
