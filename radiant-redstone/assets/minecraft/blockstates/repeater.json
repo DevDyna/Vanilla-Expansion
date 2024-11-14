@@ -1,0 +1,391 @@
+{
+  "multipart": [
+    {
+      "when": { "powered": "true", "facing": "north" },
+      "apply": { "model": "minecraft:block/repeater/power/on", "y": 180 }
+    },
+    {
+      "when": { "powered": "false", "facing": "north" },
+      "apply": { "model": "minecraft:block/repeater/power/off", "y": 180 }
+    },
+    {
+      "when": { "locked": "true", "delay": "1", "facing": "north" },
+      "apply": { "model": "minecraft:block/repeater/locked/1", "y": 180 }
+    },
+    {
+      "when": { "locked": "true", "delay": "2", "facing": "north" },
+      "apply": { "model": "minecraft:block/repeater/locked/2", "y": 180 }
+    },
+    {
+      "when": { "locked": "true", "delay": "3", "facing": "north" },
+      "apply": { "model": "minecraft:block/repeater/locked/3", "y": 180 }
+    },
+    {
+      "when": { "locked": "true", "delay": "4", "facing": "north" },
+      "apply": { "model": "minecraft:block/repeater/locked/4", "y": 180 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "1",
+        "powered": "false",
+        "facing": "north"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/1", "y": 180 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "2",
+        "powered": "false",
+        "facing": "north"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/2", "y": 180 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "3",
+        "powered": "false",
+        "facing": "north"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/3", "y": 180 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "4",
+        "powered": "false",
+        "facing": "north"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/4", "y": 180 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "1",
+        "powered": "true",
+        "facing": "north"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/1", "y": 180 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "2",
+        "powered": "true",
+        "facing": "north"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/2", "y": 180 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "3",
+        "powered": "true",
+        "facing": "north"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/3", "y": 180 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "4",
+        "powered": "true",
+        "facing": "north"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/4", "y": 180 }
+    },
+
+    {
+      "when": { "powered": "true", "facing": "south" },
+      "apply": { "model": "minecraft:block/repeater/power/on" }
+    },
+    {
+      "when": { "powered": "false", "facing": "south" },
+      "apply": { "model": "minecraft:block/repeater/power/off" }
+    },
+    {
+      "when": { "locked": "true", "delay": "1", "facing": "south" },
+      "apply": { "model": "minecraft:block/repeater/locked/1" }
+    },
+    {
+      "when": { "locked": "true", "delay": "2", "facing": "south" },
+      "apply": { "model": "minecraft:block/repeater/locked/2" }
+    },
+    {
+      "when": { "locked": "true", "delay": "3", "facing": "south" },
+      "apply": { "model": "minecraft:block/repeater/locked/3" }
+    },
+    {
+      "when": { "locked": "true", "delay": "4", "facing": "south" },
+      "apply": { "model": "minecraft:block/repeater/locked/4" }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "1",
+        "powered": "false",
+        "facing": "south"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/1" }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "2",
+        "powered": "false",
+        "facing": "south"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/2" }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "3",
+        "powered": "false",
+        "facing": "south"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/3" }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "4",
+        "powered": "false",
+        "facing": "south"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/4" }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "1",
+        "powered": "true",
+        "facing": "south"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/1" }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "2",
+        "powered": "true",
+        "facing": "south"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/2" }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "3",
+        "powered": "true",
+        "facing": "south"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/3" }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "4",
+        "powered": "true",
+        "facing": "south"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/4" }
+    },
+
+    {
+      "when": { "powered": "true", "facing": "west" },
+      "apply": { "model": "minecraft:block/repeater/power/on", "y": 90 }
+    },
+    {
+      "when": { "powered": "false", "facing": "west" },
+      "apply": { "model": "minecraft:block/repeater/power/off", "y": 90 }
+    },
+    {
+      "when": { "locked": "true", "delay": "1", "facing": "west" },
+      "apply": { "model": "minecraft:block/repeater/locked/1", "y": 90 }
+    },
+    {
+      "when": { "locked": "true", "delay": "2", "facing": "west" },
+      "apply": { "model": "minecraft:block/repeater/locked/2", "y": 90 }
+    },
+    {
+      "when": { "locked": "true", "delay": "3", "facing": "west" },
+      "apply": { "model": "minecraft:block/repeater/locked/3", "y": 90 }
+    },
+    {
+      "when": { "locked": "true", "delay": "4", "facing": "west" },
+      "apply": { "model": "minecraft:block/repeater/locked/4", "y": 90 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "1",
+        "powered": "false",
+        "facing": "west"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/1", "y": 90 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "2",
+        "powered": "false",
+        "facing": "west"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/2", "y": 90 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "3",
+        "powered": "false",
+        "facing": "west"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/3", "y": 90 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "4",
+        "powered": "false",
+        "facing": "west"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/4", "y": 90 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "1",
+        "powered": "true",
+        "facing": "west"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/1", "y": 90 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "2",
+        "powered": "true",
+        "facing": "west"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/2", "y": 90 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "3",
+        "powered": "true",
+        "facing": "west"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/3", "y": 90 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "4",
+        "powered": "true",
+        "facing": "west"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/4", "y": 90 }
+    },
+
+    {
+      "when": { "powered": "true", "facing": "east" },
+      "apply": { "model": "minecraft:block/repeater/power/on", "y": 270 }
+    },
+    {
+      "when": { "powered": "false", "facing": "east" },
+      "apply": { "model": "minecraft:block/repeater/power/off", "y": 270 }
+    },
+    {
+      "when": { "locked": "true", "delay": "1", "facing": "east" },
+      "apply": { "model": "minecraft:block/repeater/locked/1", "y": 270 }
+    },
+    {
+      "when": { "locked": "true", "delay": "2", "facing": "east" },
+      "apply": { "model": "minecraft:block/repeater/locked/2", "y": 270 }
+    },
+    {
+      "when": { "locked": "true", "delay": "3", "facing": "east" },
+      "apply": { "model": "minecraft:block/repeater/locked/3", "y": 270 }
+    },
+    {
+      "when": { "locked": "true", "delay": "4", "facing": "east" },
+      "apply": { "model": "minecraft:block/repeater/locked/4", "y": 270 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "1",
+        "powered": "false",
+        "facing": "east"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/1", "y": 270 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "2",
+        "powered": "false",
+        "facing": "east"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/2", "y": 270 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "3",
+        "powered": "false",
+        "facing": "east"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/3", "y": 270 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "4",
+        "powered": "false",
+        "facing": "east"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/off/4", "y": 270 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "1",
+        "powered": "true",
+        "facing": "east"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/1", "y": 270 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "2",
+        "powered": "true",
+        "facing": "east"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/2", "y": 270 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "3",
+        "powered": "true",
+        "facing": "east"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/3", "y": 270 }
+    },
+    {
+      "when": {
+        "locked": "false",
+        "delay": "4",
+        "powered": "true",
+        "facing": "east"
+      },
+      "apply": { "model": "minecraft:block/repeater/torch/on/4", "y": 270 }
+    }
+  ]
+}
